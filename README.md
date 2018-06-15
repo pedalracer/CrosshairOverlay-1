@@ -5,7 +5,8 @@ What is it?
 
 A crosshair overlay for almost every game that doesn't offer a crosshair. 
 
-https://image.prntscr.com/image/kuWkjOriQkmWqFbtuvzMLw.png
+![alt text](https://image.prntscr.com/image/kuWkjOriQkmWqFbtuvzMLw.png)
+
 
 
 Which files are needed?
@@ -17,4 +18,6 @@ How to use it
 
 Configure the TargetWindowName to your desired window and start the compiled executable.
 
-https://image.prntscr.com/image/Qd7VZrWyRey5Z6eoFHRx3A.png
+![alt text](https://image.prntscr.com/image/Qd7VZrWyRey5Z6eoFHRx3A.png)
+
+
